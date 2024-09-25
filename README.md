@@ -49,9 +49,10 @@ PACKAGES AND LIBRARIES
 ![image](https://github.com/user-attachments/assets/cdfa4dd0-0cc1-4195-9cbe-a39ac2a627ea)
 •	Create txt file with booked details of customer in desktop (location given)
 ![image](https://github.com/user-attachments/assets/8316c601-1f33-495d-88ef-c4fd8ab3ce48)
-•	Created bookings table entry with booked details fo the customer   
-![image](https://github.com/user-attachments/assets/9cb67589-898f-4697-be70-227aa66bb8c7)
+•	Created bookings table entry with booked details fo the customer  
 ![image](https://github.com/user-attachments/assets/7bea2475-1329-4e7f-8459-0e13e64a1aaa)
+![image](https://github.com/user-attachments/assets/9cb67589-898f-4697-be70-227aa66bb8c7)
+
 •	About us page of the application       
 ![image](https://github.com/user-attachments/assets/34bb4f67-8839-4d25-84cc-1d862ae0f1d5)
 ![image](https://github.com/user-attachments/assets/31a66ef7-4536-4916-9a82-b4a9598dfc83)
