@@ -37,13 +37,4 @@ PACKAGES AND LIBRARIES
 •	streamlit as slt
 •	import datetime
 •	from streamlit_option_menu import option_menu
-•	from selenium import webdriver 
-
-
-
-
-•	Landing page of the yellowbus(application name) application with data extracted from www.redbus.com        
-•	Create txt file with booked details of customer in desktop (location given)  
-•	Created bookings table entry with booked details fo the customer   
-•	About us page of the application       
-
+•	from selenium import webdriver
