@@ -37,4 +37,27 @@ PACKAGES AND LIBRARIES
 •	streamlit as slt
 •	import datetime
 •	from streamlit_option_menu import option_menu
-•	from selenium import webdriver
+•	from selenium import webdriver 
+
+
+
+
+•	Landing page of the yellowbus(application name) application with data extracted from www.redbus.com   
+![image](https://github.com/user-attachments/assets/db015ddd-d273-4f5f-be39-6817d1c08726)
+![image](https://github.com/user-attachments/assets/87d34089-bc75-40c0-9d74-219941a92746)
+![image](https://github.com/user-attachments/assets/d90f6820-8e74-4a3a-89ec-47c08c1d836a)
+![image](https://github.com/user-attachments/assets/cdfa4dd0-0cc1-4195-9cbe-a39ac2a627ea)
+•	Create txt file with booked details of customer in desktop (location given)
+![image](https://github.com/user-attachments/assets/8316c601-1f33-495d-88ef-c4fd8ab3ce48)
+•	Created bookings table entry with booked details fo the customer   
+![image](https://github.com/user-attachments/assets/9cb67589-898f-4697-be70-227aa66bb8c7)
+![image](https://github.com/user-attachments/assets/7bea2475-1329-4e7f-8459-0e13e64a1aaa)
+•	About us page of the application       
+![image](https://github.com/user-attachments/assets/34bb4f67-8839-4d25-84cc-1d862ae0f1d5)
+![image](https://github.com/user-attachments/assets/31a66ef7-4536-4916-9a82-b4a9598dfc83)
+![image](https://github.com/user-attachments/assets/604a5361-5c49-41f9-83bc-53949de65746)
+![image](https://github.com/user-attachments/assets/53c34c39-d96c-48d4-ae57-60966784a00a)
+
+
+
+
