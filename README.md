@@ -56,13 +56,15 @@ With the help of Streamlit, you can create an interactive application similar to
 ![image](https://github.com/user-attachments/assets/db015ddd-d273-4f5f-be39-6817d1c08726)
 ![image](https://github.com/user-attachments/assets/87d34089-bc75-40c0-9d74-219941a92746)
 ![image](https://github.com/user-attachments/assets/d90f6820-8e74-4a3a-89ec-47c08c1d836a)
-![image](https://github.com/user-attachments/assets/cdfa4dd0-0cc1-4195-9cbe-a39ac2a627ea)
+![4](https://github.com/user-attachments/assets/161cca9e-81df-4dc1-a28f-ceeb31fde4ea)
 ![image](https://github.com/user-attachments/assets/2d5d0637-a8e0-4fda-9ce5-63ab672109b0)
+
 *	Create txt file with booked details of customer in desktop (location given)
-![image](https://github.com/user-attachments/assets/8316c601-1f33-495d-88ef-c4fd8ab3ce48)
+![6](https://github.com/user-attachments/assets/3bd1660b-0073-44c3-b66a-91f465036dc9)
+
 *	Created bookings table entry with booked details fo the customer  
-![image](https://github.com/user-attachments/assets/7bea2475-1329-4e7f-8459-0e13e64a1aaa)
-![image](https://github.com/user-attachments/assets/9cb67589-898f-4697-be70-227aa66bb8c7)
+![7](https://github.com/user-attachments/assets/1a217bde-7251-4960-977e-cae6a0cb300e)
+![8](https://github.com/user-attachments/assets/ddbbd371-d709-4ddc-a869-1215d3f1431b)
 
 *	About us page of the application       
 ![image](https://github.com/user-attachments/assets/34bb4f67-8839-4d25-84cc-1d862ae0f1d5)
