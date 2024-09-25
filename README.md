@@ -51,7 +51,7 @@ With the help of Streamlit, you can create an interactive application similar to
 
 
 
-
+## the Streamlit application called Yellowbus with data extracted from redbus:
 *	Landing page of the yellowbus(application name) application with data extracted from www.redbus.com   
 ![image](https://github.com/user-attachments/assets/db015ddd-d273-4f5f-be39-6817d1c08726)
 ![image](https://github.com/user-attachments/assets/87d34089-bc75-40c0-9d74-219941a92746)
